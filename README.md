@@ -17,6 +17,9 @@ Step 2: Data Collection
 Step 3: Exploratory Data Analysis (EDA)
 
 Conducted exploratory data analysis through visualizations on Tableau to answer questions and derive actionable insights 
+![Overview](https://user-images.githubusercontent.com/61637539/131236547-cb0ea784-5e81-42d5-992e-e93b54b75686.PNG)
+![demographic](https://user-images.githubusercontent.com/61637539/131236558-bfaa9a2d-441c-418c-8b1f-1d181ab6151d.PNG)
+![Service_Type](https://user-images.githubusercontent.com/61637539/131236560-463c4d3a-6477-4fc7-9149-34c547a4e9e0.PNG)
 
 Step 4: Feature Engineering
 
